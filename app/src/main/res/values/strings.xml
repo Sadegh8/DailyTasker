@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smart tasks</string>
+    <string name="due_date">Due Date</string>
+    <string name="days_left">Days left</string>
+    <string name="can_t_resolve">Can\'t resolve</string>
+    <string name="resolve">Resolve</string>
+    <string name="resolved">Resolved</string>
+    <string name="unresolved">Unresolved</string>
+    <string name="please_leave_a_comment_if_needed">Please leave a comment if needed.</string>
+    <string name="change_task_state">Change Task State</string>
+    <string name="leave_a_comment">Leave a comment...</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_in_getting_data">Error in getting data!</string>
+    <string name="no_tasks_for_today">No tasks for today!</string>
+</resources>
