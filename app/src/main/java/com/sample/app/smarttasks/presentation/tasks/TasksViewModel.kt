@@ -62,7 +62,8 @@ class TasksViewModel @Inject constructor(
                         else -> {
                             TasksState(
                                 tasks = tasksForDate,
-                                dateTitle = dateTitle
+                                dateTitle = dateTitle,
+                                emptyState = false,
                             )
                         }
                     }

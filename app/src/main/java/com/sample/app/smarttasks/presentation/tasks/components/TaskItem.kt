@@ -59,12 +59,13 @@ fun TaskItem(
                 horizontalArrangement = Arrangement.SpaceBetween
             ) {
                 Text(
+                    modifier = Modifier.fillMaxWidth(0.7f),
                     text = title,
                     style = MaterialTheme.typography.titleLarge,
                     color = TitleColor,
                     fontWeight = FontWeight.Bold,
                     maxLines = 1,
-                    overflow = TextOverflow.Ellipsis
+                    overflow = TextOverflow.Ellipsis,
                 )
 
                 Image(
