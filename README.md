@@ -20,5 +20,4 @@ The **DailyTasker** app helps users manage their tasks efficiently by allowing t
 
 ## Repository
 
-For more details and to access the source code, visit the [GitHub repository](https://github.com/user-attachments/assets/c3930331-c7ca-40ab-a430-39b40f3da7b0).
 
